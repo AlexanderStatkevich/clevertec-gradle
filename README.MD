@@ -3,18 +3,19 @@
 ## О проекте
 
 Данный проект состоит из двух подпроектов. Подпроект Core содержит класс NumberUtils,
-который реализует метод isAllPositiveNumbers используя класс StringUtil из внешней библиотеки.
-Подпроект Api просто использует класс NumberUtils в классе App.
+который реализует метод isAllPositiveNumbers, используя класс StringUtil из внешней библиотеки.
+Подпроект Api просто использует класс NumberUtils в классе App для демонстрации работы приложения.
 
-Внешняя библиотека ru.clevertec:utils:1.3.5
-подключается из удаленного репозитория на базе Sonatype Nexus развернутого
+Внешняя библиотека ru.clevertec:utils:1.3.5 после сборки опубликована в [удаленный репозиторий
+на базе Sonatype Nexus](http://142.93.137.22:8081/#browse/browse:bumblebear:com) развернутый
 на виртуальной машине в DigitalOcean. Вот [ссылка на репозиторий](https://github.com/AlexanderStatkevich/StringUtilsJar)
-,
-в котором собирается utils-1.3.5.jar.
+с исходным кодом utils-1.3.5.jar.
+
+[Ссылка на репозиторий](https://github.com/AlexanderStatkevich/CustomPluginTask) с реализацией плагина.
+Плагин также опубликован в [удаленном репозитории](http://142.93.137.22:8081/#browse/browse:bumblebear:com) и
+использован
+в [проекте по сборке utils-1.3.5](https://github.com/AlexanderStatkevich/StringUtilsJar).
 
 ### Контакты
 
 Alexander Statkevich - aastatkevich@gmail.com
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

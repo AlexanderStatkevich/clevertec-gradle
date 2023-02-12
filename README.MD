@@ -13,8 +13,7 @@
 
 [Ссылка на репозиторий](https://github.com/AlexanderStatkevich/CustomPluginTask) с реализацией плагина.
 Плагин также опубликован в [удаленном репозитории](http://142.93.137.22:8081/#browse/browse:bumblebear:com) и
-использован
-в [проекте по сборке utils-1.3.5](https://github.com/AlexanderStatkevich/StringUtilsJar).
+использован в данном проекте.
 
 ### Контакты
 

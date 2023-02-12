@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.clevertec'
+version '1.0-SNAPSHOT'
+
+subprojects{
+    apply plugin : 'java'
+    repositories {
+        mavenCentral()
+        maven {url 'http://142.93.137.22:8081/repository/bumblebear/'
+        allowInsecureProtocol(true)}
+    }
+}
+
+test {
+    useJUnitPlatform()
+}

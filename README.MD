@@ -12,9 +12,9 @@
 ,
 в котором собирается utils-1.3.5.jar.
 
-## Контакты
+### Контакты
 
 Alexander Statkevich - aastatkevich@gmail.com
-Project Link: [https://github.com/AlexanderStatkevich/ReceiptTask](https://github.com/AlexanderStatkevich/ReceiptTask)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

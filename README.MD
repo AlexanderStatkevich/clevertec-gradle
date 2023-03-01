@@ -14,7 +14,7 @@
 [Ссылка на репозиторий](https://github.com/AlexanderStatkevich/CustomPluginTask) с реализацией плагина.
 Плагин также опубликован в [удаленном репозитории](http://142.93.137.22:8081/#browse/browse:bumblebear:com) и
 использован в данном проекте.
-
+(поддержка удалённых ресурсов прекращена в связи с удалением аккауна в Digital Ocean)
 ### Контакты
 
 Alexander Statkevich - aastatkevich@gmail.com
